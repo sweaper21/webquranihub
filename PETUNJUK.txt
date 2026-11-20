@@ -1,0 +1,14 @@
+QURANIHUB — PETUNJUK
+Guru pembuat website: Zainul Arifin, S.Pdi
+1. Ekstrak semua berkas ke satu folder.
+2. Buka index.html di browser. Tidak memerlukan internet atau pustaka tambahan.
+3. Pilih materi dari dasbor. Kuis akhir tersedia per kelas, 25 soal: 20 PG kompleks dan 5 esai.
+4. PG dinilai tepat seluruhnya: 4 atau 0 poin. Esai dinilai manual 0–4 per soal melalui panel hasil.
+5. Selesaikan semua soal untuk memperoleh sertifikat, berapa pun nilainya.
+6. Menu Sekolah: isi identitas dan unggah tanda tangan asli guru/kepala sekolah dengan izin. Tanpa itu sertifikat berstatus draf.
+7. Cetak sertifikat menjadi PDF: A4 lanskap, matikan header/footer browser.
+8. Unduh jawaban untuk dikirim kepada guru. Semua data dan pengaturan hanya bertahan selama sesi halaman terbuka.
+9. Tidak ada akun/login, server, penyimpanan terpusat, verifikasi nomor sertifikat, atau tanda tangan digital tersertifikasi. Nama pemeriksa dan gambar tanda tangan berasal dari input lokal.
+10. ZIP tidak menyertakan data pribadi, jawaban peserta, atau gambar tanda tangan dari sesi aktif.
+11. Materi dan soal berada di script.js. Gaya berada di style.css. Struktur berada di index.html.
+12. Untuk pelaksanaan ujian resmi multi-pengguna, diperlukan server, autentikasi guru, penyimpanan, dan pengesahan sekolah.
